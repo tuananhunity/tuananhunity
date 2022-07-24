@@ -97,7 +97,7 @@
 <div align="center">
   ###      ✍️My Quote 
 </div>
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
