@@ -91,13 +91,13 @@
 
 <div align="center">
   ###     🐍🐍 Snake game  🐍 🐍 
-  ![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
 </div>
+![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   ###      ✍️My Quote 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
