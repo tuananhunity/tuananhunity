@@ -93,7 +93,7 @@
 <p align="center">
   ###     🐍🐍 Snake game  🐍 🐍 
 </p>
-  ![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   ###      ✍️My Quote 
