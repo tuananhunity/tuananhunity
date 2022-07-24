@@ -89,12 +89,12 @@
 
 <br>
 
-###                         🐍🐍 Snake game  🐍 🐍 
+###     🐍🐍 Snake game  🐍 🐍 
 
 ![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
 
 
-###                           ✍️My Quote
+###      ✍️My Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
