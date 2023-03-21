@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+
 <a href="#" target="_blank">
   <img src="svg/smile.svg" width="1200" alt="smile-official" />
 </a>
