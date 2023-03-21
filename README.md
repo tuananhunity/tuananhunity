@@ -98,7 +98,7 @@
 
 ###      ✍️My Quote 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote='No%20pain%2C%20no%20gain'?author='Expression')
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
