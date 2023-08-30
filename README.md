@@ -53,11 +53,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailucanh&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
+</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tailucanh&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailucanh&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
 </a>
 </div>
 
@@ -91,14 +91,11 @@
 
 
 
-###     🐍🐍 Snake game  🐍 🐍 
-
-![Snake animation](https://github.com/tailucanh/tailucanh/blob/output/github-contribution-grid-snake.svg)
-
 
 ###      ✍️My Quote 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=C%C3%A1ch%20b%E1%BA%A1n%20l%C3%A0m%20m%E1%BB%99t%20vi%E1%BB%87c%20l%C3%A0%20c%C3%A1ch%20b%E1%BA%A1n%20l%C3%A0m%20m%E1%BB%8Di%20vi%E1%BB%87c
+)
 
 
 
