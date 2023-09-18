@@ -82,6 +82,9 @@
   <a href="https://www.instagram.com/tai_it_dev/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="smile-instagram" />
   </a>
+   <a href="https://www.tiktok.com/@tai_it_1504" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="smile-tiktok" />
+  </a>
   <a href="mailto:lucanhtai1504@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="smile-email" />
   </a>
