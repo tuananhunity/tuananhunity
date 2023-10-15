@@ -10,7 +10,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Android Studio-282C34?logo=AndroidStudio&logoColor=3DDC84" alt="Android Studio logo" title="Android Studio" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=F58018" alt="Kotlin logo" title="Kotlin" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ReactNative-282C34?logo=react&logoColor=61DAFB" alt="ReactNative logo" title="ReactNative" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=22ADF6" alt="Dart logo" title="Dart" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=22ADF6" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
@@ -46,7 +50,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c sharp&logoColor=5E99D8" alt="C Sharp logo" title="C Sharp" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobe photoshop&logoColor=FFFFFFFF" alt="Photoshop logo" title="Photoshop" height="25" /></span>
+&nbsp;
 <br>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
