@@ -67,7 +67,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/lucanh.tai" target="blank">
+  <a href="https://www.facebook.com/anh.tuanx.7/" target="blank">
     <img width="90" height="90" src="images/ic_myinfo.png" alt="smile-blog" />
   </a>
   <a href="https://www.facebook.com/lucanh.tai" target="blank">
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/l%E1%BB%A5c-anh-t%C3%A0i-3265b4222/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="smile-linkedin" />
   </a>
-  <a href="https://www.instagram.com/lucanh18/" target="blank">
+  <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="smile-instagram" />
   </a>
   <a href="mailto:lucanhtai1504@gmail.com" target="top">
