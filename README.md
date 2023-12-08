@@ -70,7 +70,7 @@
   <a href="https://www.facebook.com/anh.tuanx.7/" target="blank">
     <img width="90" height="90" src="images/ic_myinfo.png" alt="smile-blog" />
   </a>
-  <a href="https://www.facebook.com/lucanh.tai" target="blank">
+  <a href="https://www.facebook.com/anh.tuanx.7/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="smile-facebook" />
   </a>
   <a href="https://www.youtube.com/" target="blank">
