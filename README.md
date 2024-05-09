@@ -76,7 +76,7 @@
   <a href="https://www.youtube.com/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="smile-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/l%E1%BB%A5c-anh-t%C3%A0i-3265b4222/" target="blank">
+  <a href="https/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
   </a>
   <a href="" target="blank">
